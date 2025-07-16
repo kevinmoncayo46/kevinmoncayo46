@@ -30,14 +30,6 @@ Soy un apasionado del desarrollo web con una sólida experiencia en **WordPress*
 
 ---
 
-📌 **Proyectos recientes**
-
-- 🪨 Piedra, Papel o Tijera en Python → [Ver repositorio](https://github.com/kevinmoncayo46/piedra-papel-tijera-py)
-- Sitio personal en HTML/CSS
-- Micrositios para productos digitales y estrategias de monetización
-
----
-
 📫 **Contacto**
 
 - 💌 kevinmoncayo46@gmail.com  
@@ -52,6 +44,7 @@ Soy un apasionado del desarrollo web con una sólida experiencia en **WordPress*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
