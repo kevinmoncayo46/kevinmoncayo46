@@ -1,21 +1,65 @@
-<h1 align="center">Hola 👋, me llamo Kevin Moncayo</h1>
-<h3 align="center">Soy un desarrollador Frond End en constante formación</h3>
+<h1 align="center">Hola 👋, soy Kevin Moncayo</h1>
+<h3 align="center">Desarrollador Front-End | Experto en WordPress y SEO</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo Frond End**
+---
 
-- 📫 Como contactarme **kevinmoncayo46@gmail.com**
+🎯 **Sobre mí**
 
-- 📄 Conoce mi experiencia [https://www.linkedin.com/in/kevinmoncayo46/](https://www.linkedin.com/in/kevinmoncayo46/)
+Soy un apasionado del desarrollo web con una sólida experiencia en **WordPress** y **posicionamiento SEO**. Actualmente me encuentro en un proceso activo para consolidarme como **Desarrollador Front-End profesional**. Me encanta construir interfaces modernas, funcionales y optimizadas, combinando diseño, código y estrategia digital.
 
-- ⚡ Fun fact **Amante de los animales, los libros y los videojuegos, Geek de corazon.**
+---
 
-<h3 align="left">Connect with me:</h3>
+💼 **Experiencia profesional destacada**
+
+- 🎨 Diseño y desarrollo de sitios web personalizados con **HTML5, CSS3, Flexbox y Grid**
+- ⚙️ Lógica de interacción y funcionalidades con **JavaScript Vanilla**
+- 🔧 Desarrollo y gestión avanzada en **WordPress** (No-Code y Low-Code)
+- 📈 Estrategias y optimización de **SEO técnico y de contenido**
+- 🧩 Control de versiones con **Git** y colaboración en **GitHub**
+- 🧠 Planificación y ejecución de proyectos digitales de alto impacto
+
+---
+
+🚀 **Lo que estoy aprendiendo ahora**
+
+- JavaScript moderno (ES6+)
+- React y Bootstrap
+- GitHub Projects para gestión de tareas
+- Python orientado a desarrollo profesional
+- Responsive Design y buenas prácticas en accesibilidad
+
+---
+
+📌 **Proyectos recientes**
+
+- 🪨 Piedra, Papel o Tijera en Python → [Ver repositorio](https://github.com/kevinmoncayo46/piedra-papel-tijera-py)
+- Sitio personal en HTML/CSS
+- Micrositios para productos digitales y estrategias de monetización
+
+---
+
+📫 **Contacto**
+
+- 💌 kevinmoncayo46@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevinmoncayo46)  
+- 📸 [Instagram](https://instagram.com/kevin_gmonca)
+
+---
+
+🛠 **Tecnologías y herramientas**
+
 <p align="left">
-<a href="https://twitter.com/kevin_monca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevin_monca" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kevinmoncayo46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinmoncayo46" height="30" width="40" /></a>
-<a href="https://fb.com/kevin.moncayo.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevin.moncayo.39" height="30" width="40" /></a>
-<a href="https://instagram.com/kevin_gmonca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevin_gmonca" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+💡 *Siempre estoy trabajando en mejorar, aprender algo nuevo y crear proyectos que me reten y me acerquen a mi meta como desarrollador profesional.*
